@@ -16,13 +16,13 @@ The dataset includes columns such as:
 - Subject names (e.g., `BEFA`, `DM`, `OS`, `DBMS`, `DPA`) with corresponding status columns (`Befa_Status`, `Dm_Status`, etc.)
 - `Total_Marks`, `SGPA`, `CGPA`, `Subjects_due`
 
-### BEFA - Business Economics and Financial Analysis
-### DM - Discrete Mathematics
-### OS - Operating Systems
-### DBMS - Database Management Systems
-### DPA - Data Preparation and Analysis
-### ES - Environmental Science
-### SD-Lab - Skill Development Lab
+#### BEFA - Business Economics and Financial Analysis
+#### DM - Discrete Mathematics
+#### OS - Operating Systems
+#### DBMS - Database Management Systems
+#### DPA - Data Preparation and Analysis
+#### ES - Environmental Science
+#### SD-Lab - Skill Development Lab
 
 This dataset allows for detailed analysis of student performance across various metrics.
 
