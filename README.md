@@ -76,7 +76,7 @@ SD-Lab - Skill Development Lab
 have higher average marks
 
 compared to theory subjects like \`DM\` and \`DBMS\`.
-![](media/image1.emf){width="6.268055555555556in"
+![](media/image1.png){width="6.268055555555556in"
 height="3.3986111111111112in"}
 
 **2. Subject-Wise Pass/Fail Counts**
@@ -84,7 +84,7 @@ height="3.3986111111111112in"}
 **Insight:** Higher pass percentages were observed in subjects like
 \`DPA\` and \`BEFA\`, while \`DM\` had a lower pass percentage.
 
-![](media/image2.emf){width="6.268055555555556in"
+![](media/image2.png){width="6.268055555555556in"
 height="3.158333333333333in"}
 
 **3. Section-Wise Pass/Fail Counts**
@@ -93,7 +93,7 @@ height="3.158333333333333in"}
 students passed and the 'B' section has the high inn no. of students
 failed
 
-![](media/image3.emf){width="6.268055555555556in"
+![](media/image3.png){width="6.268055555555556in"
 height="3.439583333333333in"}
 
 **4. Subject-Wise Pass/Fail Counts - Section-Wise**
@@ -105,10 +105,10 @@ Section.
 ![](media/image4.png){width="6.268055555555556in"
 height="2.8506944444444446in"}
 
-![](media/image5.emf){width="6.268055555555556in"
+![](media/image5.png){width="6.268055555555556in"
 height="2.8in"}
 
-![](media/image6.emf){width="6.268055555555556in"
+![](media/image6.png){width="6.268055555555556in"
 height="2.841666666666667in"}
 
 **5. Top 10 Students by CGPA and SGPA**
@@ -132,12 +132,12 @@ height="4.058333333333334in"}
 \`B\` had a slightly lower pass rate than Sections \`A\` and \`C\`, with
 room for improvement in theoretical subjects.
 
-![](media/image9.emf){width="4.3590277777777775in"
+![](media/image9.png){width="4.3590277777777775in"
 height="3.216666666666667in"}
 
 **7. Subject wise pass percentage**
 
-![](media/image10.emf){width="6.268055555555556in"
+![](media/image10.png){width="6.268055555555556in"
 height="2.8402777777777777in"}
 
 **8. Section-wise Analysis of Detained Students**
