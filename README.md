@@ -76,16 +76,14 @@ SD-Lab - Skill Development Lab
 have higher average marks
 
 compared to theory subjects like \`DM\` and \`DBMS\`.
-![](media/image1.png){width="6.268055555555556in"
-height="3.3986111111111112in"}
+![](media/image1.png)
 
 **2. Subject-Wise Pass/Fail Counts**
 
 **Insight:** Higher pass percentages were observed in subjects like
 \`DPA\` and \`BEFA\`, while \`DM\` had a lower pass percentage.
 
-![](media/image2.png){width="6.268055555555556in"
-height="3.158333333333333in"}
+![](media/image2.png)
 
 **3. Section-Wise Pass/Fail Counts**
 
@@ -93,8 +91,7 @@ height="3.158333333333333in"}
 students passed and the 'B' section has the high inn no. of students
 failed
 
-![](media/image3.png){width="6.268055555555556in"
-height="3.439583333333333in"}
+![](media/image3.png)
 
 **4. Subject-Wise Pass/Fail Counts - Section-Wise**
 
@@ -102,14 +99,11 @@ height="3.439583333333333in"}
 \`DPA\` and \`BEFA\`, while \`DM\` had a lower pass percentage in each
 Section.
 
-![](media/image4.png){width="6.268055555555556in"
-height="2.8506944444444446in"}
+![](media/image4.png)
 
-![](media/image5.png){width="6.268055555555556in"
-height="2.8in"}
+![](media/image5.png)
 
-![](media/image6.png){width="6.268055555555556in"
-height="2.841666666666667in"}
+![](media/image6.png)
 
 **5. Top 10 Students by CGPA and SGPA**
 
@@ -118,13 +112,11 @@ strong marks across multiple subjects.
 
 - **Top 10 Students by SGPA**
 
-![](media/image7.png){width="6.268055555555556in"
-height="3.8583333333333334in"}
+![](media/image7.png)
 
 - **Top 10 Students by CGPA**
 
-![](media/image8.png){width="6.268055555555556in"
-height="4.058333333333334in"}
+![](media/image8.png)
 
 **6. Section-Wise Pass Percentage**
 
@@ -132,17 +124,14 @@ height="4.058333333333334in"}
 \`B\` had a slightly lower pass rate than Sections \`A\` and \`C\`, with
 room for improvement in theoretical subjects.
 
-![](media/image9.png){width="4.3590277777777775in"
-height="3.216666666666667in"}
+![](media/image9.png)
 
 **7. Subject wise pass percentage**
 
-![](media/image10.png){width="6.268055555555556in"
-height="2.8402777777777777in"}
+![](media/image10.png)
 
 **8. Section-wise Analysis of Detained Students**
 
 **Insight**: Section A has higher detention rate
 
-![](media/image11.png){width="2.5833333333333335in"
-height="1.3666666666666667in"}
+![](media/image11.png)
