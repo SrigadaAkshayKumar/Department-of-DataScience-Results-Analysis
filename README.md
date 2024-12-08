@@ -110,14 +110,6 @@ Section.
 **Insight:** Students with high SGPA and CGPA tend to have consistently
 strong marks across multiple subjects.
 
-- **Top 10 Students by SGPA**
-
-![](media/image7.png)
-
-- **Top 10 Students by CGPA**
-
-![](media/image8.png)
-
 **6. Section-Wise Pass Percentage**
 
 **Insight:** Section \`A\` had a slightly Higher pass rate while Section
