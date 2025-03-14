@@ -129,3 +129,12 @@ room for improvement in theoretical subjects.
 **Insight**: Section A has higher detention rate
 
 ![](media/image11.png)
+
+
+# References
+
+**Pandas ([**Documentation**](https://pandas.pydata.org/docs/user_guide/missing_data.html)) :** For Data Preprocessing, handling Missing Values
+
+**Matplotlib ([**Documentation**](https://matplotlib.org/stable/plot_types/basic/index.html)) :** For Data Visualization
+
+**Data Analysis Techniques ([**pwskills**](https://pwskills.com/blog/data-analysis-techniques-in-research-methods-tools-examples/)) :** Understanding Data Analysis Techniques
