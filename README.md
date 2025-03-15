@@ -11,7 +11,7 @@ section-wise performance.
 
 **Abstract**
 
-This project is a **Department of Data Science Results Analysis** that
+This project is a **Department of Data Science Students Results Analysis** that
 processes student performance data to generate insights on pass/fail
 counts by section and subject. The project includes visualizations that
 display results breakdown across different sections, helping in
